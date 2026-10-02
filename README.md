@@ -12,7 +12,7 @@
 * **Swap/pagefile and hibernation should be disabled** before generating or recovering a wallet, to reduce the risk of secret material being written to persistent storage.
 * The machine must be **fully offline and air-gapped** while generating or recovering wallets.
 
-
+<img width="1080" height="1059" alt="screen" src="https://github.com/user-attachments/assets/0f041b12-994f-4a69-a7ad-6807481db814" />
 
 
 ## Taproot output
